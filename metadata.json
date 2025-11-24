@@ -1,0 +1,5 @@
+{
+  "name": "ACF-801 Data Standards Viewer",
+  "description": "A technical documentation and analysis portal for the ACF-801 Child Care Case-Level Data Standards, including file format specifications and architectural recommendations for high-volume processing.",
+  "requestFramePermissions": []
+}
